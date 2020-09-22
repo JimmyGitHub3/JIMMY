@@ -1,6 +1,7 @@
 # ressource by jimmy 
 description 'JimmyAutoWipe'
 
+
 -----------------------Installation-----------------------
 1.Télecharger le en zip.
 2.L'extraire sur son bureau 
@@ -14,8 +15,6 @@ description 'JimmyAutoWipe'
 1.écrire dans le chat : /wipe 
 
 2.Dans la case steam ID il faut entrer que les chiffres 9 dernier chiffre du steam id par exemple ici "steam:110000332723569" Les derniers chiffres sont "332723569" 
-
-                                            OU 
 
 2.Il suffit uniquement de rentrer le numéro de téléphone de la personne (ex:5552030) . 
 
