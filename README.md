@@ -7,8 +7,7 @@ description 'JimmyAutoWipe'
 2.L'extraire sur son bureau 
 3.Importer le dans le dossier ressources de votre serveur.
 4.Le start dans le server.cfg (ex: start JimmyAutoWipe)
-5.Bon jeu ! 
-
+5.adapter le server.lua de la ligne 19 à 40 en supprimant les lignes qui correspondent aux tables sql que vous n'avez pas !
 -----------------------Utilisation-----------------------
 
 
