@@ -1,7 +1,6 @@
 # ressource by jimmy 
 description 'JimmyAutoWipe'
 
-
 -----------------------Installation-----------------------
 1.Télecharger le en zip.
 2.L'extraire sur son bureau 
