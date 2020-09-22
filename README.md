@@ -32,4 +32,3 @@ Script TOTALEMENT FREE :
 https://github.com/jimmy9995
 
 Pour toutes questions merci de me contacter sur discord : JIMMY#9999
-
